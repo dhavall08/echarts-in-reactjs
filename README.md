@@ -1,4 +1,5 @@
 # ECharts in ReactJS
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/dhavall08/echarts-in-reactjs)
 
 Implementation of ECharts including:
 
